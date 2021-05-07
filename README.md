@@ -5,7 +5,7 @@
 ---------
 
 # علی ارجمند
-- [PNU_3991_AR](https://github.com/arjmand08/PNU_3991_AR/)
+- [PNU_3992_AR](https://github.com/arjmand08/PNU_3992_AR/)
 - [Resume](https://arjmand08.github.io/resume/)
 - [SOP](https://arjmand08.github.io/SOP/)
 - [jlord/patchwork](https://arjmand08.github.io/jlord_patchwork/patchwork.jpg)
